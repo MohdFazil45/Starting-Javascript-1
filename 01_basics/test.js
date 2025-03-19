@@ -1,1 +1,1 @@
-console.log("Fazil")
+console.log("Fazil");
