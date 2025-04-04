@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+}
+span{
+  display: block;
+}
+.canva{
+  margin: 100px auto 100px;
+  width: 80%;
+  align-items: center;
+  
+}
+h1{
+  height: 50px;
+  font-size: 40px;
+  font-weight: 500;
+}
+h1 {
+  color: aquamarine;
+  -webkit-text-stroke: 1px black; /* Border thickness and color */
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  border: solid black 2px;
+  display: inline-block;
+}
+
+#grey {
+  background: grey;
+}
+
+#white {
+  background: white;
+}
+#blue {
+  background: blue;
+}
+#yellow {
+  background: yellow;
+}
